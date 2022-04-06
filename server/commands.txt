@@ -1,0 +1,3 @@
+npx tsc -------------------------------- convert to javascript
+node dist/src/index.js---------------------------- activate js script
+npm run dev------------------------------------turn into tsc and activate js script with debugging
